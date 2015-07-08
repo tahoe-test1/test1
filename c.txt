@@ -1,2 +1,2 @@
 <img src="meat.jpg" width="100"/>
-<font color="red">price:1</font>
+<font color="green">price:1</font>
